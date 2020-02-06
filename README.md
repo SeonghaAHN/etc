@@ -1,7 +1,7 @@
 # Documents
-- [Deep Learning on AWS](https://drive.google.com/file/d/10CRBD35wgqejRGoAPcvZ9V0x4UtBNYu9/view?usp=sharing)  
-  [Supplementary](https://drive.google.com/file/d/10CRBD35wgqejRGoAPcvZ9V0x4UtBNYu9/view?usp=sharing)
   ## Deep Learning on AWS - AWS 환경에서 딥러닝 시작하기
+  - [Deep Learning on AWS](https://drive.google.com/file/d/10CRBD35wgqejRGoAPcvZ9V0x4UtBNYu9/view?usp=sharing)  
+    [Supplementary](https://drive.google.com/file/d/10CRBD35wgqejRGoAPcvZ9V0x4UtBNYu9/view?usp=sharing)
   ### 목적  
     - 이 설명서는 Linux와 서버에 대한 기초 지식을 가지고 있는 개인 사용자를 대상으로 합니다.  
     - AWS에서 제공하는 제품을 이용하여 딥 러닝 모델을 학습시키기 위한 서버를 구성하고,  
