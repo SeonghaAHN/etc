@@ -1,2 +1,0 @@
-## TensorFlow gpu setup
-# driver
